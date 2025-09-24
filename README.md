@@ -1,2 +1,2 @@
-# Atividades Práticas - ESCOLA DA NUVEM
+# Atividades Práticas com Python - ESCOLA DA NUVEM
 Welson Felipe
